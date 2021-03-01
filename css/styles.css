@@ -245,6 +245,7 @@ header {
   background-color: var(--accent-color);
   color: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border: none;
   border-radius: 4px;
 
   font-weight: 700;
@@ -1077,9 +1078,6 @@ address,
 
 .example-card-content {
   padding: 20px 24px;
-  border-left: 1px solid#eeeeee;
-  border-right: 1px solid #eeeeee;
-  border-bottom: 1px solid #eeeeee;
 }
 
 .example-card-thumb {
